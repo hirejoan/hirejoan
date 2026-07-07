@@ -1,5 +1,5 @@
 # Hey, I'm Joan Bagasala 👋
-### AI Automation Consultant & Growth Systems Specialist
+### Growth Systems Specialist & AI Automation Consultant
 
 Growing companies get bogged down by repetitive admin work and messy lead tracking. 
 
