@@ -1,11 +1,9 @@
 # Hey, I'm Joan Bagasala 👋
 ### Growth Systems Specialist & AI Automation Consultant
 
-Growing companies get bogged down by repetitive admin work and messy lead tracking. 
+Many builders know how to write code, but they do not understand how real business works. With 17 years of experience in customer service, tech support, and operations, plus 6 years of cold calling, I understand the actual friction your team faces daily. 
 
-When sales systems do not connect, teams waste hours moving data. Leads go cold because follow-up emails are forgotten. Your business growth stalls.
-
-I solve this problem. I design and build automated RevOps systems that connect your CRM, email, and files. I build custom AI workflows so you can scale your operations.
+I do not just build tech. I solve business bottlenecks. I design and build automated RevOps systems that connect your CRM, email, and files, replacing expensive SaaS stacks with clean, custom workflows.
 
 ---
 
