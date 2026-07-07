@@ -1,9 +1,17 @@
 # Hey, I'm Joan Bagasala 👋
-### Growth Systems Specialist-Funnels Automation CRM Marketing and Sales
+### Growth Systems Specialist | Funnels · Automation · CRM · Marketing & Sales
 
-Many builders know how to write code, but they do not understand how real business works. With 17 years of experience in customer service, tech support, and operations, plus 6 years of cold calling, I understand the actual friction your team faces daily. 
-
-I do not just build tech. I solve business bottlenecks. I design and build automated RevOps systems that connect your CRM, email, and files, replacing expensive SaaS stacks with clean, custom workflows.
+I started my career on the front lines — 9 years handling thousands of calls, emails, and chats for Foxtel Australia and Virgin Mobile, two of Australia's largest enterprise brands. That experience taught me something no course ever could: exactly where businesses lose customers, why follow-ups fail, and what friction actually costs a company every single day.
+From there I moved into outbound sales at Century 21 Northwest in the US — cold calling, qualifying leads, and booking appointments for real estate agents. That's where I learned what it actually takes to move a prospect from cold to committed, and how critical a clean CRM and consistent follow-up system is to making sales work at scale.
+That experience led me into sales and operations management at Ganesha Group International, an international beauty distribution company serving the UK and Europe. I built their operations from scratch — growing a remote team of 18 people, managing CRM-driven sales systems, coordinating multi-market product launches, and running the full marketing and e-commerce operation for over six years.
+From there I stepped into one of the most demanding sales environments I've worked in — supporting the Director of Sales at Disruptive Advertising, one of the largest digital marketing and advertising agencies in the US. I built his entire AI-powered operating system from scratch — custom Claude AI profiles, HubSpot infrastructure, n8n automation workflows, and a Lead Reactivation System across 3,500+ contacts — cutting proposal turnaround from 3-5 days to 24-48 hours and eliminating hours of manual sales admin every week.
+Now I take everything I learned from those years on the ground and use it to build automated systems that fix the exact problems I used to see from the inside — broken follow-up sequences, disconnected CRMs, expensive SaaS stacks doing half the job, and founders spending their best hours on work that should run itself.
+What that looks like in practice:
+– Replaced a $300/month SaaS stack with a $37/month custom system for a healthcare clinic in Australia
+– Built a Lead Reactivation System across 3,500+ HubSpot contacts, cutting proposal turnaround from 3-5 days to 24-48 hours
+– Grew a clinic's Google reviews from 19 to 77 in 4 months using an automated review funnel
+– Connected CRM, email, files, and AI into one operating system that runs without the founder's involvement
+I don't just build tech. I build systems I would have needed myself.
 
 ---
 
