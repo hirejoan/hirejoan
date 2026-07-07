@@ -49,5 +49,6 @@ I solve this problem. I design and build automated RevOps systems that connect y
 
 ## 🤝 Let's Build Together
 
+*   **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/joan-bagasala/)
 *   **Upwork Profile:** [Hire me on Upwork](https://www.upwork.com/freelancers/~01e2fcc724cf62ec24)
 *   **Email:** joan.bagasala1@gmail.com
