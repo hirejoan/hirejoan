@@ -21,16 +21,16 @@ I solve this problem. I design and build automated RevOps systems that connect y
 
 ## 📦 Featured Projects
 
-*   **[RevOps Automation Framework](https://github.com/mizjoanduztood/agentic-automation-framework):** A clean public repository containing my custom Claude Model Context Protocol (MCP) skills and n8n blueprint flows.
-*   **[CRM Database Segmentation Case Study](https://github.com/mizjoanduztood/agentic-automation-framework/blob/main/case-studies/lead-reactivation.md):** Audit and segmentation of 3,500+ dormant contacts. Raised open rates from 15% to 28%.
-*   **[Lovable.dev Sales Dashboard Case Study](https://github.com/mizjoanduztood/agentic-automation-framework/blob/main/case-studies/sales-dashboard.md):** A custom sales command center app integrating HubSpot, Google Drive, and Gmail.
-*   **[Local Clinic Growth Stack Case Study](https://github.com/mizjoanduztood/agentic-automation-framework/blob/main/case-studies/healing-hands-stack.md):** Migration from Thryv to a $37/month stack, tripling clinic bookings.
+*   **[RevOps Automation Framework](https://github.com/hirejoan/agentic-automation-framework):** A clean public repository containing my custom Claude Model Context Protocol (MCP) skills and n8n blueprint flows.
+*   **[CRM Database Segmentation Case Study](https://github.com/hirejoan/agentic-automation-framework/blob/main/case-studies/lead-reactivation.md):** Audit and segmentation of 3,500+ dormant contacts. Raised open rates from 15% to 28%.
+*   **[Lovable.dev Sales Dashboard Case Study](https://github.com/hirejoan/agentic-automation-framework/blob/main/case-studies/sales-dashboard.md):** A custom sales command center app integrating HubSpot, Google Drive, and Gmail.
+*   **[Local Clinic Growth Stack Case Study](https://github.com/hirejoan/agentic-automation-framework/blob/main/case-studies/healing-hands-stack.md):** Migration from Thryv to a $37/month stack, tripling clinic bookings.
 
 ---
 
 ## 📈 GitHub Stats
 
-![Joan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mizjoanduztood&show_icons=true&theme=dark)
+![Joan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hirejoan&show_icons=true&theme=dark)
 
 ---
 
