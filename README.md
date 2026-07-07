@@ -1,5 +1,5 @@
 # Hey, I'm Joan Bagasala 👋
-### Growth Systems Specialist & AI Automation Consultant
+### Growth Systems Specialist-Funnels Automation CRM Marketing and Sales
 
 Many builders know how to write code, but they do not understand how real business works. With 17 years of experience in customer service, tech support, and operations, plus 6 years of cold calling, I understand the actual friction your team faces daily. 
 
