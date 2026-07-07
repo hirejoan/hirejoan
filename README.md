@@ -32,10 +32,14 @@ I do not just build tech. I solve business bottlenecks. I design and build autom
 
 ## 📦 Featured Projects
 
-*   **[RevOps Automation Framework](https://github.com/hirejoan/agentic-automation-framework):** A clean public repository containing my custom Claude Model Context Protocol (MCP) skills and n8n blueprint flows.
-*   **[CRM Database Segmentation Case Study](https://github.com/hirejoan/agentic-automation-framework/blob/main/case-studies/lead-reactivation.md):** Audit and segmentation of 3,500+ dormant contacts. Raised open rates from 15% to 28%.
-*   **[Lovable.dev Sales Dashboard Case Study](https://github.com/hirejoan/agentic-automation-framework/blob/main/case-studies/sales-dashboard.md):** A custom sales command center app integrating HubSpot, Google Drive, and Gmail.
-*   **[Local Clinic Growth Stack Case Study](https://github.com/hirejoan/agentic-automation-framework/blob/main/case-studies/healing-hands-stack.md):** Migration from Thryv to a $37/month stack, tripling clinic bookings.
+*   **[1. RevOps Automation Framework](https://github.com/hirejoan/agentic-automation-framework/blob/main/case-studies/revops-automation.md):** Claude AI voice training and n8n workflows that cut proposal turnaround from 3-5 days to 24-48 hours.
+*   **[2. CRM Database Segmentation Case Study](https://github.com/hirejoan/agentic-automation-framework/blob/main/case-studies/lead-reactivation.md):** Audited and segmented 3,500+ dormant HubSpot contacts into 5-email sequences, lifting open rates from 15% to 28%.
+*   **[3. Local Clinic Growth Stack Case Study](https://github.com/hirejoan/agentic-automation-framework/blob/main/case-studies/healing-hands.md):** Replaced an expensive Fresha/GHL setup with a $37/mo custom stack, doubling weekly bookings from 15 to 30+ and growing reviews from 19 to 77.
+*   **[4. Lovable.dev Sales Dashboard Case Study](https://github.com/hirejoan/agentic-automation-framework/blob/main/case-studies/sales-dashboard.md):** A custom sales command center app integrating HubSpot, Google Drive, and Gmail in one live view.
+*   **[5. Childcare Enrollment Growth System](https://github.com/hirejoan/agentic-automation-framework/blob/main/case-studies/teddybears-childcare.md):** Migrated an Australian childcare center off a $267/mo Thryv platform onto WordPress, HubSpot, and Calendly to automate inquiries.
+*   **[6. E-Commerce Migration & SEO Recovery](https://github.com/hirejoan/agentic-automation-framework/blob/main/case-studies/ecommerce-migration.md):** Managed Shopify-to-WordPress migration for an online retailer, preserving SEO authority and search visibility.
+*   **[7. AI Web Design Production Blueprint](https://github.com/hirejoan/agentic-automation-framework/blob/main/case-studies/ai-web-design.md):** A framework for building high-trust WordPress sites using Claude Design and Elementor under Git version control.
+*   **[8. LinkedIn Automation System](https://github.com/hirejoan/agentic-automation-framework/blob/main/case-studies/linkedin-automation.md):** Automated twice-weekly social media content generation using GPT Mini as the brain.
 
 ---
 
